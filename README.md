@@ -3,4 +3,4 @@ An Arduino controlled RBG led programmed to create various disco lighting effect
 Wirtten in Arduino IDE and executed on Arduino UNO, by Joe Miller.
 
 Watch the machine in action: (Warning: Flashing Lights)
-https://www.youtube.com/embed/UIorX2_n9ZE
+https://www.youtube.com/watch?v=UIorX2_n9ZE
